@@ -1,0 +1,25 @@
+{
+  "name": "api-booking",
+  "version": "1.0.0",
+  "description": "Hall- Booking ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "hall",
+    "node",
+    "api"
+  ],
+  "author": "Poova Asokan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
